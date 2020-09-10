@@ -28,6 +28,8 @@
 		<input id="numero" type="text" />
 		<label for="complemento">Complemento</label>
 		<input id="complemento" type="text"/>
+		<label for="cidade">Cidade</label>
+		<input id="cidade" type="text" required/>
 		<label for="bairro">Bairro</label>
 		<input id="bairro" type="text" required/>
 		<label for="uf">Estado</label>
